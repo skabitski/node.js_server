@@ -1,0 +1,14 @@
+{
+  "name": "node.js_npm",
+  "version": "1.0.0",
+  "description": "gettins started with node n exp!",
+  "main": "app,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Skabitski",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

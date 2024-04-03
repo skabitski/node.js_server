@@ -1,5 +1,6 @@
 const http = require("http");
 
+
 function handleRequest(request, response) {
   if (request.url === "/currenttime") {
     response.statusCode = 200;
